@@ -10,13 +10,13 @@
         <mxCell id="L8GswumljgcfGlUPXVFG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Marlin Code CLI (MCC)" vertex="1">
           <mxGeometry height="100" width="100" x="280" y="337" as="geometry" />
         </mxCell>
-        <mxCell id="L8GswumljgcfGlUPXVFG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Commercial AI Model" vertex="1">
+        <mxCell id="L8GswumljgcfGlUPXVFG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" value="Commercial AI Model" vertex="1">
           <mxGeometry height="100" width="100" x="570" y="220" as="geometry" />
         </mxCell>
         <mxCell id="L8GswumljgcfGlUPXVFG-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Classifier&lt;div&gt;Detects CUI&lt;/div&gt;" vertex="1">
           <mxGeometry height="100" width="100" x="430" y="337" as="geometry" />
         </mxCell>
-        <mxCell id="L8GswumljgcfGlUPXVFG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Azure OpenAI at IL5" vertex="1">
+        <mxCell id="L8GswumljgcfGlUPXVFG-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Azure OpenAI at IL5" vertex="1">
           <mxGeometry height="100" width="100" x="570" y="440" as="geometry" />
         </mxCell>
         <mxCell id="L8GswumljgcfGlUPXVFG-8" edge="1" parent="1" source="L8GswumljgcfGlUPXVFG-2" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" target="L8GswumljgcfGlUPXVFG-4" value="">
