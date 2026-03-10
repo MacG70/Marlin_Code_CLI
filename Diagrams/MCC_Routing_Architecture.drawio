@@ -50,7 +50,7 @@
         </mxCell>
         <mxCell id="L8GswumljgcfGlUPXVFG-16" connectable="0" parent="L8GswumljgcfGlUPXVFG-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No CUI" vertex="1">
           <mxGeometry relative="1" x="-0.2866" y="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="19" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="L8GswumljgcfGlUPXVFG-12" edge="1" parent="1" source="L8GswumljgcfGlUPXVFG-3" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" target="L8GswumljgcfGlUPXVFG-2" value="">
